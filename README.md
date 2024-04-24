@@ -16,4 +16,4 @@ Segue o slide: [Cibersegurança com integração de IAs Generativas](https://gam
 
 ## 💭 Reflexão
 Foi uma experiência divertida e introdutória do curso Fundamentos de IA pela [DIO](https://web.dio.me/) onde pude conhecer
-e utilizar um pouco das IAs disponíveis para testes podendo me dar algumas ideias inovadoras para criação de projetos futuros.
+e utilizar um pouco das IAs disponíveis para testes. Com isso, obtive algumas ideias inovadoras para criação de projetos futuros.
